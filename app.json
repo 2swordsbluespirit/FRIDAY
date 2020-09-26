@@ -9,9 +9,8 @@
     "telegram-userbot",
     "productivity"
   ],
-  "repository": "https://github.com/starkgangofficial/FridayUserbot",
+  "repository": "https://github.com/starkgangofficial/Friday",
   "website": "starkgang.ml",
-  "stack": "container",
   "success_url": "t.me/FridayOT",
   "env": {
     "ENV": {
